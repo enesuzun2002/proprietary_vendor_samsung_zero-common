@@ -83,7 +83,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zero-common/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-wb.wmfw \
     vendor/samsung/zero-common/proprietary/etc/nfc/THL/sec_s3fwrn5p_rfreg.bin:system/etc/nfc/THL/sec_s3fwrn5p_rfreg.bin \
     vendor/samsung/zero-common/proprietary/etc/nfc/sec_s3fwrn5p_rfreg.bin:system/etc/nfc/sec_s3fwrn5p_rfreg.bin \
-    vendor/samsung/zero-common/proprietary/etc/somxreg.conf:system/etc/somxreg.conf \
     vendor/samsung/zero-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/zero-common/proprietary/etc/wifi/bcmdhd_apsta.bin_a1:system/etc/wifi/bcmdhd_apsta.bin_a1 \
     vendor/samsung/zero-common/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
